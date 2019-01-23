@@ -15,6 +15,9 @@ import ru.arvalon.binding.model.Line;
 import ru.arvalon.binding.model.Metro;
 import ru.arvalon.binding.model.Station;
 
+/**
+ * Data Binding
+ */
 public class MainActivity extends AppCompatActivity {
 
     private User user = new User("Mikhail","Svetlov");
