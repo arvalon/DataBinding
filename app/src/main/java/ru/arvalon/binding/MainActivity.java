@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     private User user = new User("Mikhail","Svetlov");
 
+    /** Изображение - заглушка */
     private String src="http://developer.alexanderklimov.ru/android/library/picasso-cat2.jpg";
 
     private Presenter presenter = new Presenter();
