@@ -1,8 +1,7 @@
 package ru.arvalon.binding.list;
 
-import android.databinding.ViewDataBinding;
-import android.support.v7.widget.RecyclerView;
-import android.view.View;
+import androidx.databinding.ViewDataBinding;
+import androidx.recyclerview.widget.RecyclerView;
 
 import ru.arvalon.binding.BR;
 

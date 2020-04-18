@@ -1,7 +1,7 @@
 package ru.arvalon.binding;
 
-import android.databinding.BaseObservable;
-import android.databinding.Bindable;
+import androidx.databinding.BaseObservable;
+import androidx.databinding.Bindable;
 
 /**
  * Created by arvalon on 29.01.2018.
