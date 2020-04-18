@@ -17,6 +17,7 @@ import ru.arvalon.binding.model.Station;
 
 /**
  * Data Binding
+ * Feature add
  */
 public class MainActivity extends AppCompatActivity {
 
